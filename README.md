@@ -2,6 +2,8 @@
 # Olá, este repositório foi criado para o programa de bolsas da empresa Compass.uol!
 
 > Status: Em Desenvolvimento. 🚨
+
 > Linguagem utilizada: Ruby. 💎
+
 > Sprint: 4️⃣
 
