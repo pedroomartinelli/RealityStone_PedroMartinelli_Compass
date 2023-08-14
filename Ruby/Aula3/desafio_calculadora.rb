@@ -12,7 +12,7 @@ loop do
     puts "4 - DIVISÃO (/)"
     
 
-    print "Opção: "
+    print "Operação: "
     option = gets.chomp.to_i
 
     case option
