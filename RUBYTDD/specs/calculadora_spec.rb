@@ -16,6 +16,7 @@ describe('Calculadora') do
     end
 
     it('Deve subtrair dois números inteiros positivos') do
+        binding.pry
         expect(calculadora.subtrai(8, 2)).to eq 7
     end
 end
