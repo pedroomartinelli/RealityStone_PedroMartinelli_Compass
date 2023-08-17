@@ -16,7 +16,7 @@ class Calculadora
         if b == 0 
             return "Não é possível dividir um número por zero"
         end
-        a / b.to_f 
+        a / b.to_f
         #Como a divisão retorna sempre o número inteiro é necessário o <to_f> para garantir as casas decimais da divisão
         #Erro descoberto via Testes
     end
@@ -30,7 +30,7 @@ class Calculadora
         a**(1.0/b) 
     end
 
-    def potenciacao(x, y)
+    def potencia(x, y)
         x**y
     end
 
