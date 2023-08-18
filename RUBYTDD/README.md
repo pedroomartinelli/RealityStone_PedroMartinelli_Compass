@@ -20,7 +20,7 @@
 
 # ✅ Preparando Ambiente
 <p>
-  Ates de dar início aos teste é necessário fazer a instalação da gem RSpec. 
+  Antes de dar início aos teste é necessário fazer a instalação da gem RSpec. 
   Ela pode ser feita por meio do arquivo Gemfile, sendo adicionada como na imagem abaixo:
 </p>
 
