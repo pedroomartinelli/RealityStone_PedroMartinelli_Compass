@@ -14,7 +14,7 @@ Eles abordam tópicos como:
 
 Cada arquivo aborda um tópico específico e ajuda a entender como esses conceitos funcionam em Ruby. 
 
-## Exercícios
+## Exercícios ✔
 - [x] about_methods.rb
 - [x] about_true_and_false.rb
 - [x] about_assertions.rb
